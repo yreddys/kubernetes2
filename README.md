@@ -1,9 +1,9 @@
 
 
 ```markdown
-# Kubernetes and MySQL Setup with Minikube
 
-## Update System and Install Docker
+
+## Install Docker
 ```sh
 yum update -y
 yum install docker -y
